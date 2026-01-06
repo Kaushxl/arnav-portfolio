@@ -1,4 +1,4 @@
-Arnav Kaushal — Cybersecurity Portfolio
+
 📞 Contact Information
 
 Name: Arnav Kaushal
