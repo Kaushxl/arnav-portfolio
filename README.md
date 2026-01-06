@@ -1,61 +1,148 @@
-# arnav-portfolio
-Arnav Kaushal – Cybersecurity Portfolio
+Arnav Kaushal — Cybersecurity Portfolio
+📞 Contact Information
 
-Contact Information:
+Name: Arnav Kaushal
 
-	•	Phone: +91 98054 34561
-	•	Email: arnavkaushal91@gmail.com
-	•	Location: Kangra, Himachal Pradesh
-	•	LinkedIn: linkedin.com/in/arnavkaushxl
+Location: Kangra, Himachal Pradesh, India
 
-About Me:
+Email: arnavkaushal91@gmail.com
 
-A 3rd-year Computer Science Engineering student specializing in Information Security with a strong foundation in network security and computer systems. Proficient in vulnerability identification and implementing robust security measures. Currently seeking opportunities to contribute my technical skills to innovative cybersecurity projects.
 
-Skills and Technologies:
+LinkedIn: https://linkedin.com/in/arnavkaushxl
 
-	•	Programming Languages: C, C++, Python (Advanced), Java (Basics), JavaScript
-	•	Blockchain: Solidity
-	•	Cybersecurity Technologies: Cryptography, Network Security, Algorithms
-	•	Languages: English, Hindi, Punjabi
+GitHub: https://github.com/kaushxl
 
-Education:
+🧑‍💻 About Me
 
-Bachelor of Computer Science Engineering in Information Security
+I am a Computer Science Engineering student specializing in Information Security with a strong interest in cybersecurity, ethical hacking, and hands-on problem solving. I actively build my skills through labs, simulations, and research-based projects.
+
+My focus areas include penetration testing, phishing detection, malware analysis, network security, Linux internals, and cloud security fundamentals. I enjoy understanding how systems fail so that I can design and apply stronger security measures. I am currently seeking internship or entry-level opportunities in cybersecurity where I can learn from experienced professionals and contribute to security-focused teams.
+
+🛠️ Skills and Technologies
+Programming & Scripting
+
+Python (Advanced)
+
+C, C++
+
+Java (Basics)
+
+JavaScript
+
+Cybersecurity & IT
+
+Penetration Testing Fundamentals
+
+Network Security
+
+Cryptography
+
+Linux Security
+
+Malware Analysis (Basic)
+
+Web Security
+
+Email Security & Phishing Detection
+
+Cloud Security (AWS Fundamentals)
+
+Tools
+
+Nmap, Wireshark, Burp Suite (Basics)
+
+Metasploit (Basics)
+
+Git & GitHub
+
+Linux CLI
+
+Blockchain
+
+Solidity (Smart Contract Basics)
+
+Languages
+
+English, Hindi, Punjabi
+
+🎓 Education
+
+Bachelor of Engineering — Computer Science (Information Security)
 Chandigarh University, Mohali
-2022 - 2026
+2022 – 2026
 
-Certifications:
+📜 Certifications
 
-	•	Introduction to Dark Web, Anonymity, and Cryptocurrency (May 2023)
-Certification Number: 218595
-	•	Google CyberSecurity (November 2023)
-Link: Google CyberSecurity Certificate
-	•	CyberSecurity for Everyone (March 2024)
-Link: CyberSecurity Certificate
+Introduction to Dark Web, Anonymity, and Cryptocurrency — May 2023
 
-Projects:
+Google Cybersecurity Professional Certificate — November 2023
 
-1. Voice-Based Email System for Physically Disabled
+Cybersecurity for Everyone — March 2024
 
-	•	Objective: Designed an email system to help physically disabled individuals compose and send emails using voice commands.
-	•	Technologies Used: Python, Speech Recognition libraries.
-	•	Outcome: Enhanced accessibility by enabling hands-free email communication.
+TryHackMe — Advent of Cyber 2025 (Completed)
 
-2. Captcha Solver for CUIMS (Chandigarh University Information Management System)
+🧪 Hands-on Learning
 
-	•	Objective: Developed a Python-based solution to automatically solve captchas for CUIMS login.
-	•	Technologies Used: Python, Optical Character Recognition (OCR).
-	•	Challenges Overcome: Managed to bypass captcha by using efficient image recognition and text extraction algorithms.
+60+ TryHackMe rooms completed
 
-3. Implementation of Cybersecurity Algorithms
+Top 8% globally on TryHackMe
 
-	•	Objective: Explored and implemented different encryption and decryption algorithms to strengthen cybersecurity measures.
-	•	Technologies Used: C, Python.
-	•	Outcome: Successfully demonstrated the implementation of algorithms like RSA, AES, and hashing techniques.
+Focus areas: Web exploitation, network discovery, malware analysis, SOC triage, AWS security, digital forensics
 
-Training:
+💻 Projects
+1. Air Quality Monitoring & Prediction System
 
-Metacrafters Summer Training Program
-(Completed: June 2024)
-Focused on cybersecurity topics such as cryptography, network security, and hands-on blockchain development using Solidity.
+Description: Designed and developed a web-based system to fetch, visualize, and analyze air quality data for multiple Indian cities.
+
+Technologies: HTML, CSS, JavaScript, Python
+
+Key Features:
+
+Real-time AQI data retrieval using APIs
+
+Data validation and error handling for unavailable or invalid cities
+
+Interactive and clean UI for easy interpretation
+
+Outcome: Enabled users to make informed health and environmental decisions.
+
+2. Smart Email Classifier for Adaptive Email Spoof Detection and Phishing Detection
+
+Description: Built a machine learning–based system to classify and detect phishing and spoofed emails by analyzing content and metadata.
+
+Technologies: Python, Machine Learning (scikit-learn), NLP basics, Email header analysis
+
+Key Features:
+
+Detection of malicious and spoofed emails
+
+Adaptive learning to improve accuracy over time
+
+Header and domain analysis to detect impersonation
+
+Outcome: Improved detection accuracy and enhanced user awareness of email-based social engineering.
+
+🧑‍🏫 Training
+
+Metacrafters Summer Training Program — June 2024
+Topics: Cryptography, Network Security, Blockchain, Smart Contracts, Security Fundamentals
+
+🚀 Current Focus
+
+Advancing in penetration testing and phishing analysis
+
+Strengthening Linux and networking internals
+
+Learning cloud security (AWS)
+
+Preparing for cybersecurity internships and entry-level roles
+
+💬 Interests
+
+Ethical Hacking
+
+Capture The Flag (CTF) challenges
+
+Cyber defense and incident response
+
+Open-source security tools
